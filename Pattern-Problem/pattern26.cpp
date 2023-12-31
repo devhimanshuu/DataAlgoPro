@@ -1,0 +1,31 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void print25(int n)
+{
+    int count = 1;
+    for (int i = 1; i <= n; i++)
+    {
+        // char ch = 'a' + (i - 1);
+        for (int j = 1; j <= n - i + 1; j++)
+        {
+            cout << " ";
+        }
+        for (int j = 1; j <= i; j++)
+        {
+            cout << "*";
+        }
+        cout << endl;
+    }
+}
+int main()
+{
+    int t;
+    cin >> t;
+    for (int i = 0; i < t; t++)
+    {
+        int n;
+        cin >> n;
+        print25(n);
+    }
+}
