@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/github/DataAlgoPro/Pattern-Problem",
-      "program": "c:/github/DataAlgoPro/Pattern-Problem/build/Debug/outDebug",
+      "cwd": "c:/github/DataAlgoPro",
+      "program": "c:/github/DataAlgoPro/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
