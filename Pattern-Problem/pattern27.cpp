@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void print25(int n)
+void print27(int n)
 {
 
     for (int i = 1; i <= n; i++)
@@ -27,6 +27,6 @@ int main()
     {
         int n;
         cin >> n;
-        print25(n);
+        print27(n);
     }
 }
