@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/github/DataAlgoPro",
-      "program": "c:/github/DataAlgoPro/build/Debug/outDebug",
+      "cwd": "c:/github/DataAlgoPro/Basic_maths",
+      "program": "c:/github/DataAlgoPro/Basic_maths/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
