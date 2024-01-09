@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void func(int i, int n)
+void func(int i, int n) 5
 {
 
     // Base Condition.
@@ -17,7 +17,9 @@ int main()
 {
 
     // Here, let’s take the value of n to be 4.
-    int n = 4;
+    int n;
+    cout << "Enter the number " << endl;
+    cin >> n;
     func(n, n);
     return 0;
 }
