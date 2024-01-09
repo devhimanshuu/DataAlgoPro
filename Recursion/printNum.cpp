@@ -18,7 +18,9 @@ int main()
 {
 
     // Here, let’s take the value of n to be 4.
-    int n = 4;
+    int n;
+    cout << "enter the number" << endl;
+    cin >> n;
     func(1, n);
     return 0;
 }
